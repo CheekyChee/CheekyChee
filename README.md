@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/CheekyChee/CheekyChee/blob/main/img/waving.gif">, I'm socheret</h1>
-<h4 align="center">a frontend developer at Asurraa.</h4>
+<h4 align="center">a frontend developer</h4>
 <h5 align="center">currently building awesome projects with React.</h5>
 
 </div>
